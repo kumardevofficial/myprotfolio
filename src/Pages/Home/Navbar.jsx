@@ -43,7 +43,6 @@ function Navbar() {
             textAlign: "center",
             fontWeight: "bold",
             padding: "20px",
-            fontWeight: "900",
           }}
         >
           DEVASHISH DEY
