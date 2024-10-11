@@ -28,10 +28,10 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/printShirt.png",
+      "title": "Tshirt Printing",
+      "description": "This is a single-page website designed for a T-shirt printing business. ",
+      "link": "https://github.com/kumardevofficial/react-practice-website"
     },
     {
       "id": "2",
